@@ -1,5 +1,5 @@
  ## Welcome! ##
- 👋 Hi, I’m Asad, a Mechatronics Engineering student at the University of Waterloo. I am interested in machine learning, software, firmware, hardware, and automotive technology. 
+ 👋 Hi, I’m Asad, a Mechatronics Engineering student at the University of Waterloo. I am interested in machine learning, software, firmware and automotive technology. 
  
  Check out some of my projects below! 👇
  
