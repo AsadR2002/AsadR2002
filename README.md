@@ -5,7 +5,7 @@
  
  ⭐ Connect with me: https://www.linkedin.com/in/rehman-asad/ 
  
- ⚡ I am currently looking for Fall 2022 co-op positions 
+ ⚡ I am currently looking for Summer 2023 co-op positions 
  
  
 
